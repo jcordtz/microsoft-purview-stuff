@@ -13,6 +13,8 @@
 
 This repository contains info I have gathered through Purview customer projects over the years.
 
+This information does not replace official Microsoft Purview Data Governance documentation. And is kept up-to-date as I have time to do so.
+
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![dk](https://img.shields.io/badge/lang-da-red.svg)](README-da.md)
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](README-de.md)
