@@ -15,10 +15,10 @@ This repository contains info I have gathered through Purview customer projects 
 
 The current content and status is as follows:
 
-1. ![Purview-getting-started-1-setup](Presentations/Purview-getting-started-1-setup.pptx): Content status: ready
-2. ![Purview-getting-started-2-datamap](Presentations/Purview-getting-started-2-datamap.pptx): Content status: ready
-3. ![Purview-getting-started-3-unified-catalog](Presentations/Purview-getting-started-3-unified-catalog.pptx): Content status: being created
-4. ![Purview-getting-started-4-advanced](Presentations/Purview-getting-started-4-advanced.pptx): Content status: no content yet
+1. [![Purview-getting-started-1-setup](images/PowerPoint_48x48.png)](Presentations/Purview-getting-started-1-setup.pptx): Content status: ready
+2. [![Purview-getting-started-2-datamap](images/PowerPoint_48x48.png)](Presentations/Purview-getting-started-2-datamap.pptx): Content status: ready
+3. [![Purview-getting-started-3-unified-catalog](images/PowerPoint_48x48.png)](Presentations/Purview-getting-started-3-unified-catalog.pptx): Content status: being created
+4. [![Purview-getting-started-4-advanced](images/PowerPoint_48x48.png)](Presentations/Purview-getting-started-4-advanced.pptx): Content status: no content yet
 
 >[!Note]
 >This information does not replace official Microsoft Purview Data Governance documentation. 
