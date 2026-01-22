@@ -24,7 +24,7 @@ Zugehörige GitHub‑Repositories:
 1. A modern data platform (https://github.com/jcordtz/a_data_platform)
 2. A Purview script setup for loading metadata (https://github.com/jcordtz/load_script)
 
->[!Hinweis]
+>[!Note]
 >Dies ersetzt nicht die offizielle Purview‑Dokumentation.  
 >Aktualisierungen erfolgen, soweit ich Zeit dafür habe.  
 >Alle Folien sind auf Englisch.  
