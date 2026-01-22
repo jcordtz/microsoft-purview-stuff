@@ -23,8 +23,8 @@ The current content and status is as follows:
 
 Related GitHub repositories:
 
-1. A modern data platform 
-2. A Purview script setup for loading metadata
+1. A modern data platform (https://github.com/jcordtz/a_data_platform)
+2. A Purview script setup for loading metadata (https://github.com/jcordtz/load_script)
 
 >[!Note]
 >This information does not replace official Microsoft Purview Data Governance documentation. 
