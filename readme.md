@@ -27,8 +27,9 @@ Related GitHub repositories:
 2. A Purview script setup for loading metadata (https://github.com/jcordtz/load_script)
 
 >[!Note]
->This information does not replace official Microsoft Purview Data Governance documentation. 
->It is kept up-to-date as I have time to do so.
+>This information does not replace official Microsoft Purview Data Governance documentation.  
+>It is kept up-to-date as I have time to do so.  
+>All slides are in english.  
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![dk](https://img.shields.io/badge/lang-da-red.svg)](README-da.md)
