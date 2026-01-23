@@ -18,6 +18,7 @@ Indholder og ders status er som følger:
 3. [![Purview-getting-started-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-3-unified-catalog.pptx) Unified catalog : Status af indhold : næsten færdig
 4. [![Purview-getting-started-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-4-data-quality.pptx) Data Quality: Status af indhold : endnu intet brugbart indhold
 5. [![Purview-getting-started-5-advanced](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-5-advanced.pptx) Advanceret : Status af indhold : endnu intet brugbart indhold
+6. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/Purview-overview.PPTX) En hel masse forskellige ting : Status af indhold: klar til brug men rodet :smile:
 
 Andre relaterede GitHub repositories:
 

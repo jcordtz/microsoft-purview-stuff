@@ -18,6 +18,7 @@ Der aktuelle Inhalt und Status sind wie folgt:
 3. [![Purview-getting-started-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-3-unified-catalog.pptx) Unified catalog : Content status: almost finished
 4. [![Purview-getting-started-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-4-data-quality.pptx) Data Quality: Content status: no content yet
 5. [![Purview-getting-started-5-advanced](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-5-advanced.pptx) Advanced : Content status: no content yet
+6. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/Purview-overview.PPTX) AViele unterschiedliche Dinge: Inhaltsstatus: einsatzbereit, aber nicht besonders gut strukturiert. :smile:
 
 Zugehörige GitHub‑Repositories:
 
