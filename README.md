@@ -56,6 +56,15 @@ Tutorial for creating custom lineage: https://piethein.medium.com/use-azure-purv
 Tutorial for scanning Delta Lake: https://www.youtube.com/watch?v=pk0Gx_HHY4A  
 Community: https://techcommunity.microsoft.com/category/microsoft-purview  
 
+### 3rd Party tools integrated with Purview
+
+MDM - Cluedin : https://www.cluedin.com/product/microsoft-purview-mdm-integration  
+MDM - Profisee: https://profisee.com/solutions/microsoft-enterprise/  
+MDM - Reltio: https://learn.reltio.com/reltio-integration-for-microsoft-purview  
+MDM - Semarchy: https://www.semarchy.com/doc/semarchy-xdm/xdm/latest/Install/azure/purview/integrate-xdm-with-purview.html  
+
+Lineage – Solidatus: https://www.solidatus.com/partners/microsoft-purview-partnership/  
+
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![dk](https://img.shields.io/badge/lang-da-red.svg)](README-da.md)
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](README-de.md)
