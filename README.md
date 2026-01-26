@@ -32,8 +32,7 @@ The current PowerPoint's and status is as follows:
 ## Related GitHub repositories (of mine)
 
 1. A modern data platform :https://github.com/jcordtz/a_data_platform  
-2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script  
-h.  
+2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script    
 
 ## A list of Purview useful links, that can come in handy
 
