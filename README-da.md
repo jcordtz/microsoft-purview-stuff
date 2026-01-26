@@ -15,7 +15,7 @@ Dette repository indholder information jeg har samlet over årene i forbindelse 
 
 ## Powerpoints 
 
-Indhold og deres status er som følger:
+Powerpoint's og deres status er som følger:
 
 1. [![Purview-getting-started-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-1-setup.pptx) Installation : Status af indhold: klar
 2. [![Purview-getting-started-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-2-datamap.pptx) Data Map: Status af indhold: klar
