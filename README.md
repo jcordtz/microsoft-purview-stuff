@@ -15,7 +15,7 @@ This repository contains info I have gathered through Purview customer projects 
 
 ## Powerpoints
 
-The current porwepoint content and status is as follows:
+The current PowerPoint's and status is as follows:
 
 1. [![Purview-getting-started-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-1-setup.pptx) Setup : Content status: ready
 2. [![Purview-getting-started-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-2-datamap.pptx) Data Map: Content status: ready
@@ -31,31 +31,31 @@ The current porwepoint content and status is as follows:
 
 ## Related GitHub repositories (of mine)
 
-1. A modern data platform (https://github.com/jcordtz/a_data_platform)
-2. A Purview script setup for loading metadata (https://github.com/jcordtz/load_script)
+1. A modern data platform :https://github.com/jcordtz/a_data_platform  
+2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script  
 h.  
 
 ## A list of Purview useful links, that can come in handy
 
-Data sources and howto connect: (https://learn.microsoft.com/en-us/purview/data-map-data-sources))
+Data sources and howto connect: https://learn.microsoft.com/en-us/purview/data-map-data-sources  
 
-Roadmap : (https://learn.microsoft.com/en-us/purview/whats-new)
+Roadmap: https://learn.microsoft.com/en-us/purview/whats-new  
 
-PyApacheAtlas (Python SDK): (https://github.com/wjohnson/pyapacheatlas)
-Azure Purview CLI: (https://github.com/tayganr/purviewcli)
+PyApacheAtlas (Python SDK): https://github.com/wjohnson/pyapacheatlas  
+Azure Purview CLI: https://github.com/tayganr/purviewcli  
 
-Apache Atlas v2 documentation: (https://atlas.apache.org/api/v2/index.html)
-Azure Purview API deep-dive video: (https://www.youtube.com/watch?v=4qzjnMf1GN4)
+Apache Atlas v2 documentation: https://atlas.apache.org/api/v2/index.html  
+Azure Purview API deep-dive video: https://www.youtube.com/watch?v=4qzjnMf1GN4  
 
-Training: (https://learn.microsoft.com/en-us/purview/)
-Training: (https://learn.microsoft.com/en-us/training/purview/)
-Training: (https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/)
-Training: (https://learn.microsoft.com/en-us/training/modules/describe-purview-data-governance/)
+Training: https://learn.microsoft.com/en-us/purview/  
+Training: https://learn.microsoft.com/en-us/training/purview/  
+Training: https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/  
+Training: https://learn.microsoft.com/en-us/training/modules/describe-purview-data-governance/  
 
-Purview StarterKit: (https://techcommunity.microsoft.com/t5/azure-purview/getting-started-with-azure-purview-using-purview-starter-kit-cli/m-p/2645574)
-Tutorial for creating custom lineage: (https://piethein.medium.com/use-azure-purviews-rest-apis-for-creating-custom-lineage-ad8efacc6230)
-Tutorial for scanning Delta Lake: (https://www.youtube.com/watch?v=pk0Gx_HHY4A)
-Community: (https://techcommunity.microsoft.com/category/microsoft-purview)
+Purview StarterKit: https://techcommunity.microsoft.com/t5/azure-purview/getting-started-with-azure-purview-using-purview-starter-kit-cli/m-p/2645574  
+Tutorial for creating custom lineage: https://piethein.medium.com/use-azure-purviews-rest-apis-for-creating-custom-lineage-ad8efacc6230  
+Tutorial for scanning Delta Lake: https://www.youtube.com/watch?v=pk0Gx_HHY4A  
+Community: https://techcommunity.microsoft.com/category/microsoft-purview  
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![dk](https://img.shields.io/badge/lang-da-red.svg)](README-da.md)
