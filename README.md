@@ -23,6 +23,7 @@ The current PowerPoint's and status is as follows:
 4. [![Purview-getting-started-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-4-data-quality.pptx) Data Quality: Content status: no content yet
 5. [![Purview-getting-started-5-advanced](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-5-advanced.pptx) Advanced : Content status: no content yet
 6. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/Purview-overview.PPTX) A lot of different stuff: Content status: ready to use but not that well organized :smile:
+7. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/Purview-retention-policies.PPTX) Retention technics for both M365 and Azure
 
 >[!Note]
 >This information does not replace official Microsoft Purview Data Governance documentation.  

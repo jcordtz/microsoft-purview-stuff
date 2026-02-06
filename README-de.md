@@ -22,7 +22,8 @@ Der aktuelle Inhalt und Status sind wie folgt:
 3. [![Purview-getting-started-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-3-unified-catalog.pptx) Unified catalog : Inhaltsstatus: einsatzbereit
 4. [![Purview-getting-started-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-4-data-quality.pptx) Data Quality: Inhaltsstatus: nicht einsatzbereitet
 5. [![Purview-getting-started-5-advanced](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-5-advanced.pptx) Advanced : Inhaltsstatus: nicht einsatzbereit
-6. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/Purview-overview.PPTX) AViele unterschiedliche Dinge: Inhaltsstatus: einsatzbereit, aber nicht besonders gut strukturiert. :smile:
+6. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/Purview-overview.PPTX) Viele unterschiedliche Dinge: Inhaltsstatus: einsatzbereit, aber nicht besonders gut strukturiert. :smile:
+7. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/Purview-retention-policies.PPTX) Retention technicen für M365 und Azure
 
 >[!Note]
 >Dies ersetzt nicht die offizielle Purview‑Dokumentation.  
