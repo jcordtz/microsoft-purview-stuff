@@ -11,19 +11,35 @@
 
 ## Einleitung
 
-Dieses Repository enthält Informationen, die ich im Laufe der Jahre im Rahmen von Purview‑Kundenprojekten gesammelt habe.
+Dieses Repository enthält Informationen, die ich im Laufe der Jahre aus Purview‑Kundenprojekten gesammelt habe.
 
-## Powerpoints
+## Powerpoint's
 
-Der aktuelle Inhalt und Status sind wie folgt:
+In der aktuellen Liste finden Sie die PowerPoints und ihren Status.
 
-1. [![Purview-getting-started-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-1-setup.pptx) Setup : Inhaltsstatus: einsatzbereit
-2. [![Purview-getting-started-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-2-datamap.pptx) Data Map: Inhaltsstatus: einsatzbereity
-3. [![Purview-getting-started-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-3-unified-catalog.pptx) Unified catalog : Inhaltsstatus: einsatzbereit
-4. [![Purview-getting-started-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-4-data-quality.pptx) Data Quality: Inhaltsstatus: nicht einsatzbereitet
-5. [![Purview-getting-started-5-advanced](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-5-advanced.pptx) Advanced : Inhaltsstatus: nicht einsatzbereit
-6. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/Purview-overview.PPTX) Viele unterschiedliche Dinge: Inhaltsstatus: einsatzbereit, aber nicht besonders gut strukturiert. :smile:
-7. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/Purview-retention-policies.PPTX) Retention technicen für M365 und Azure
+![Note]
+>Diese Informationen ersetzen nicht die offizielle Microsoft Purview Data >Governance‑Dokumentation.
+>Sie werden aktualisiert, sobald ich Zeit dafür habe.
+>Alle Folien sind auf Englisch
+
+## Powerpoint's
+
+### Purview-übersicht
+
+1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) A lot of different stuff: Content status: ready to use but not that well organized :smile:
+2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention technics for both M365 and Azure
+3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Pricing model for Purview Data Governance.
+
+### Getting started
+
+1. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-1-setup.pptx) Setup : Content status: ready
+2. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-2-datamap.pptx) Data Map: Content status: ready
+3. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-3-unified-catalog.pptx) Unified catalog : Content status: almost finished
+4. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-4-data-quality.pptx) Data Quality: Content status: no content yet
+
+### Advanced
+
+1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanced : Content status: no content yet
 
 >[!Note]
 >Dies ersetzt nicht die offizielle Purview‑Dokumentation.  

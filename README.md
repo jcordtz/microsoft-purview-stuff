@@ -13,22 +13,32 @@
 
 This repository contains info I have gathered through Purview customer projects over the years.
 
-## Powerpoints
+## Powerpoint's
 
-The current PowerPoint's and status is as follows:
-
-1. [![Purview-getting-started-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-1-setup.pptx) Setup : Content status: ready
-2. [![Purview-getting-started-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-2-datamap.pptx) Data Map: Content status: ready
-3. [![Purview-getting-started-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-3-unified-catalog.pptx) Unified catalog : Content status: almost finished
-4. [![Purview-getting-started-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-4-data-quality.pptx) Data Quality: Content status: no content yet
-5. [![Purview-getting-started-5-advanced](images/PowerPoint_48x48.jpeg)](Presentations/Purview-getting-started-5-advanced.pptx) Advanced : Content status: no content yet
-6. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/Purview-overview.PPTX) A lot of different stuff: Content status: ready to use but not that well organized :smile:
-7. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/Purview-retention-policies.PPTX) Retention technics for both M365 and Azure
+In the current list you will find PowerPoint's and there status.
 
 >[!Note]
 >This information does not replace official Microsoft Purview Data Governance documentation.  
 >It is kept up-to-date as I have time to do so.  
->All slides are in englis
+>All slides are in english
+
+### Purview overview
+
+1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) A lot of different stuff: Content status: ready to use but not that well organized :smile:
+2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention technics for both M365 and Azure
+3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Pricing model for Purview Data Governance.
+
+### Getting started
+
+1. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-1-setup.pptx) Setup : Content status: ready
+2. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-2-datamap.pptx) Data Map: Content status: ready
+3. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-3-unified-catalog.pptx) Unified catalog : Content status: almost finished
+4. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-4-data-quality.pptx) Data Quality: Content status: no content yet
+
+### Advanced
+
+1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanced : Content status: no content yet
+
 
 ## Related GitHub repositories (of mine)
 
