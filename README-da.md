@@ -30,10 +30,11 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 
 ### Getting started
 
-1. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-1-setup.pptx) Setup : Content status: ready
-2. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-2-datamap.pptx) Data Map: Content status: ready
-3. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-3-unified-catalog.pptx) Unified catalog : Content status: almost finished
-4. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-4-data-quality.pptx) Data Quality: Content status: no content yet
+1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-democase.pptx) Demo case : Content status: ready
+2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-1-setup.pptx) Setup : Content status: ready
+3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-2-datamap.pptx) Data Map: Content status: ready
+4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-3-unified-catalog.pptx) Unified catalog : Content status: almost finished
+5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-4-data-quality.pptx) Data Quality: Content status: no content yet
 
 ### Advanced
 
