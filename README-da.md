@@ -24,21 +24,21 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 
 ### Purview-oversigt
 
-1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) En masse forskellige ting, ikke særlig velorganiseret :smile:
-2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention teknikker for både M365 og Azure
-3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Pris model for Purview Data Governance.
+1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) En masse forskellige ting, dog ikke særlig velorganiseret :smile:
+2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention teknikker for både M365 og Azure - indholdet er klar til brug
+3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Pris model for Purview Data Governance - indholdet er klar til brug
 
 ### Getting started
 
-1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case : Indholds status: klar til brug
-2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Opsætning : Indholds status: klar til brug
-3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map: Indholds status: klar til brug
-4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog : Indholds status: næsten klar til brug
-5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality: Indholds status: ikke påbegyndt
+1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case - indholdet er klar til brug
+2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Opsætning - indholdet er klar til brug
+3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map - indholdet er klar til brug
+4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog - indholdet er næsten klar til brug
+5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality -indholdet er ikke påbegyndt
 
 ### Advanced
 
-1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanceret : Indholds status: påbgyndt
+1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanceret - indholdet er påbgyndt
 
 ## Andre relaterede GitHub repositories (af mine):
 

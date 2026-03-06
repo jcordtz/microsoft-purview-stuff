@@ -24,21 +24,22 @@ In der aktuellen Liste finden Sie die PowerPoints und ihren Status.
 
 ### Purview-übersicht
 
-1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) Eine Menge verschiedener Dinge: Inhaltsstatus: einsatzbereit, aber nicht besonders gut organisiert. :smile:
-2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retentionstechniken für sowohl M365 als auch Azure
-3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Preismodell für Purview Data Governance.
+1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) Eine Menge verschiedener Dinge - Inhaltsstatus ist einsatzbereit, aber nicht besonders gut organisiert. :smile:
+2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retentionstechniken für sowohl M365 als auch Azure - Inhaltsstatus ist bereit
+3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Preismodell für Purview Data Governance - Inhaltsstatus ist bereit
 
 ### Getting started
 
-1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo-Fall: Inhaltsstatus: bereit
-2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Setup: Inhaltsstatus: bereit
-3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map: Inhaltsstatus: bereit
-4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog : Inhaltsstatus: fast fertig
-5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality: Inhaltsstatus: nicht klar
+1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo-Fall - Inhaltsstatus ist bereit
+2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Setup - Inhaltsstatus ist bereit
+3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map - Inhaltsstatus ist bereit
+4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog - Inhaltsstatus ist fast fertig
+5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality - Inhaltsstatus ist nicht klar
 
 ### Advanced
 
-1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) fortgeschritten: Inhaltsstatus: nicht klar
+1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) fortgeschritten - Inhaltsstatus ist angefangen
+2. [![Purview-2-apis](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-2-APIs.pptx) API's - Inhaltsstatus ist angefangen
 
 >[!Note]
 >Dies ersetzt nicht die offizielle Purview‑Dokumentation.  

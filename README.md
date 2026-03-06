@@ -30,20 +30,21 @@ In the current list you will find PowerPoint's and there status.
 
 ### Getting started
 
-1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case : Content status: ready
-2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Setup : Content status: ready
-3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map: Content status: ready
-4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog : Content status: almost finished
-5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality: Content status: no content yet
+1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case: Content status is ready
+2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Setup: Content status is ready
+3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map: Content status is ready
+4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog: Content status is almost finished
+5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality: Content status is no content yet
 
 ### Advanced
 
-1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanced : Content status: no content yet
+1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanced: Content status is no content yet
+2. [![Purview-2-apis](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-2-APIs.pptx) API's: Content status is started.
 
 
 ## Related GitHub repositories (of mine)
 
-1. A modern data platform :https://github.com/jcordtz/a_data_platform  
+1. A modern data platform: https://github.com/jcordtz/a_data_platform  
 2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script    
 
 ## A list of Purview useful links, that can come in handy
