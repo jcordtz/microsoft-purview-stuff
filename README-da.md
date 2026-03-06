@@ -43,11 +43,11 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 ## Andre relaterede GitHub repositories (af mine):
 
 1. En moderne data platform: https://github.com/jcordtz/a_data_platform
-2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script
+2. Et Purview script setup til at indsætte metadata: https://github.com/jcordtz/load_script
 
 ## En liste af Purview links, som kan vise sig brugbare
 
-Data sources and howto connect: https://learn.microsoft.com/en-us/purview/data-map-data-sources  
+Data kilder og hvorledes man forbinder til disse: https://learn.microsoft.com/en-us/purview/data-map-data-sources  
 
 Roadmap: https://learn.microsoft.com/en-us/purview/whats-new  
 
@@ -57,11 +57,11 @@ Azure Purview CLI: https://github.com/tayganr/purviewcli
 Apache Atlas v2 documentation: https://atlas.apache.org/api/v2/index.html  
 Azure Purview API deep-dive video: https://www.youtube.com/watch?v=4qzjnMf1GN4  
 
-Training #1: https://learn.microsoft.com/en-us/purview/  
-Training #2: https://learn.microsoft.com/en-us/training/purview/  
-Training #3: https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/  
-Training #4: https://learn.microsoft.com/en-us/training/modules/describe-purview-data-governance/  
-Training #5: https://github.com/tayganr/purviewlab  
+Træning #1: https://learn.microsoft.com/en-us/purview/  
+Træning #2: https://learn.microsoft.com/en-us/training/purview/  
+Træning #3: https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/  
+Træning #4: https://learn.microsoft.com/en-us/training/modules/describe-purview-data-governance/  
+Træning #5: https://github.com/tayganr/purviewlab  
 
 Purview StarterKit: https://techcommunity.microsoft.com/t5/azure-purview/getting-started-with-azure-purview-using-purview-starter-kit-cli/m-p/2645574  
 Tutorial for creating custom lineage: https://piethein.medium.com/use-azure-purviews-rest-apis-for-creating-custom-lineage-ad8efacc6230  
@@ -76,7 +76,6 @@ MDM - Reltio: https://learn.reltio.com/reltio-integration-for-microsoft-purview
 MDM - Semarchy: https://www.semarchy.com/doc/semarchy-xdm/xdm/latest/Install/azure/purview/integrate-xdm-with-purview.html  
 
 Lineage – Solidatus: https://www.solidatus.com/partners/microsoft-purview-partnership/  
-
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![dk](https://img.shields.io/badge/lang-da-red.svg)](README-da.md)

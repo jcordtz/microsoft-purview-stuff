@@ -22,8 +22,6 @@ In der aktuellen Liste finden Sie die PowerPoints und ihren Status.
 >Sie werden aktualisiert, sobald ich Zeit dafür habe.
 >Alle Folien sind auf Englisch
 
-## Powerpoint's
-
 ### Purview-übersicht
 
 1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) Eine Menge verschiedener Dinge: Inhaltsstatus: einsatzbereit, aber nicht besonders gut organisiert. :smile:
@@ -51,7 +49,7 @@ In der aktuellen Liste finden Sie die PowerPoints und ihren Status.
 ## Zugehörige GitHub‑Repositories
 
 1. A modern data platform: https://github.com/jcordtz/a_data_platform  
-2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script  
+2. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  
 
 # Eine Sammlung nützlicher Purview‑Links, die hilfreich sein können
 
