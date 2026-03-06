@@ -30,6 +30,7 @@ In the current list you will find PowerPoint's and there status.
 
 ### Getting started
 
+1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case : Content status: ready
 1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-democase.pptx) Demo case : Content status: ready
 2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-1-setup.pptx) Setup : Content status: ready
 3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting Started/Purview-2-datamap.pptx) Data Map: Content status: ready
