@@ -26,22 +26,22 @@ The color code is as follows :green_circle: - content is ready, :yellow_circle: 
 
 ### Purview overview
 
-1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) A lot of different stuff: Content status: ready to use but not that well organized :smile:
-2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention technics for both M365 and Azure
-3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Pricing model for Purview Data Governance.
+1. :green_circle:[![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) A lot of different stuff: Content is ready to use but not that well organized :smile:
+2. :green_circle:[![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention technics for both M365 and Azure
+3. :green_circle:[![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Pricing model for Purview Data Governance.
 
 ### Getting started
 
-1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case: Content status is ready
-2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Setup: Content status is ready
-3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map: Content status is ready
-4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog: Content status is almost finished
-5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality: Content status is no content yet
+1. :green_circle:[![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Description of the demo case used in the screen shots.
+2. :green_circle:[![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Inital setup, how to get Purview Data Governance ready for use.
+3. :green_circle:[![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map, how to create domains, collections and data assets using scanning.
+4. :green_circle:[![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog, establish governance domains, data products and added content
+5. :red_circle:[![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality, how to create, use and run
 
 ### Advanced
 
-1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanced: Content status is no content yet
-2. [![Purview-2-apis](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-2-APIs.pptx) API's: Content status is started.
+1. :red_circle:[![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanced stuff
+2. :yellow_circle:[![Purview-2-apis](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-2-APIs.pptx) API's, what can be done with them and how to use them
 
 
 ## Related GitHub repositories (of mine)
