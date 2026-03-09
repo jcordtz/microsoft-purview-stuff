@@ -15,7 +15,7 @@ This repository contains info I have gathered through Purview customer projects 
 
 ## Powerpoint's
 
-In the current list you will find PowerPoint's and there status.
+In the current list you will find PowerPoint's and there status. The color code is as follows :green_circle: - content is ready, :yellow_circle: - working on it and :red_circle: - not started yet.
 
 >[!Note]
 >This information does not replace official Microsoft Purview Data Governance documentation.  
