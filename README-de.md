@@ -17,37 +17,33 @@ Dieses Repository enthält Informationen, die ich im Laufe der Jahre aus Purview
 
 In der aktuellen Liste finden Sie die PowerPoints und ihren Status.
 
+Die Farbkennzeichnung ist wie folgt: :green_circle: – Inhalt ist bereit, :yellow_circle: – in Bearbeitung und :red_circle: – noch nicht begonnen.
+
 ![Note]
 >Diese Informationen ersetzen nicht die offizielle Microsoft Purview Data >Governance‑Dokumentation.
 >Sie werden aktualisiert, sobald ich Zeit dafür habe.
 >Alle Folien sind auf Englisch
 
-### Purview-übersicht
+### Purview-übersicht ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) Eine Menge verschiedener Dinge - Inhaltsstatus ist einsatzbereit, aber nicht besonders gut organisiert. :smile:
-2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retentionstechniken für sowohl M365 als auch Azure - Inhaltsstatus ist bereit
-3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Preismodell für Purview Data Governance - Inhaltsstatus ist bereit
+1. :green_circle:![Ûbersicht](Presentations/1-Intro/Purview-overview.PPTX) Eine Menge verschiedener Dinge - Inhalt ist einsatzbereit, aber nicht besonders gut organisiert. :smile:
+2. :green_circle:![Retention](Presentations/1-Intro/Purview-retention-policies.PPTX) Retentionstechniken für sowohl M365 als auch Azure.
+3. :green_circle:![Preismodell](Presentations/1-Intro/Purview-pricing.PPTX) Preismodell für Purview Data Governance.
 
-### Getting started
+### Getting started ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo-Fall - Inhaltsstatus ist bereit
-2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Setup - Inhaltsstatus ist bereit
-3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map - Inhaltsstatus ist bereit
-4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog - Inhaltsstatus ist fast fertig
-5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality - Inhaltsstatus ist nicht klar
+1. :green_circle:[Demo-case](Presentations/2-Getting%20Started/Purview-democase.pptx) Beschreibung des in den Screenshots verwendeten Demofalls.
+2. :green_circle:[Setup](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Ersteinrichtung – wie man Purview Data Governance für die Nutzung bereit macht.
+3. :green_circle:[Data Map](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map – wie man Domänen, Sammlungen und Data Assets mithilfe von Scans erstellt.
+4. :yellow_circle:[Unified catalog](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified Catalog – Aufbau von Governance-Domänen, Datenprodukten und zusätzlichem Inhalt.
+5. :red_circle:[Data Quality](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality – wie man sie erstellt, verwendet und ausführt.
 
-### Advanced
+### Advanced ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) fortgeschritten - Inhaltsstatus ist angefangen
-2. [![Purview-2-apis](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-2-APIs.pptx) API's - Inhaltsstatus ist angefangen
+1. :red_circle:[Advanced](Presentations/3-Advanced/Purview-1-advanced.pptx) Fortgeschrittene Themen
+2. :yellow_circle:[APIs](Presentations/3-Advanced/Purview-2-APIs.pptx) APIs – was man damit machen kann und wie man sie verwendet.
 
->[!Note]
->Dies ersetzt nicht die offizielle Purview‑Dokumentation.  
->Aktualisierungen erfolgen, soweit ich Zeit dafür habe.  
->Alle Folien sind auf Englisch.  
-
-
-## Zugehörige GitHub‑Repositories
+## Zugehörige GitHub‑Repositories (meine eigenen:smile:)
 
 1. A modern data platform: https://github.com/jcordtz/a_data_platform  
 2. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  

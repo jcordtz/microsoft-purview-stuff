@@ -35,16 +35,16 @@ The color code is as follows :green_circle: - content is ready, :yellow_circle: 
 1. :green_circle:[Demo-case](Presentations/2-Getting%20Started/Purview-democase.pptx) Description of the demo case used in the screen shots.
 2. :green_circle:[Setup](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Inital setup, how to get Purview Data Governance ready for use.
 3. :green_circle:[Data Map](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map, how to create domains, collections and data assets using scanning.
-4. :green_circle:[Unified catalog](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog, establish governance domains, data products and added content
-5. :red_circle:[Data Quality](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality, how to create, use and run
+4. :yellow_circle:[Unified catalog](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog, establish governance domains, data products and added content
+5. :red_circle:[Data Quality](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality, how to create, use and run.
 
 ### Advanced ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
 1. :red_circle:[Advanced](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanced stuff
-2. :yellow_circle:[APIs](Presentations/3-Advanced/Purview-2-APIs.pptx) API's, what can be done with them and how to use them
+2. :yellow_circle:[APIs](Presentations/3-Advanced/Purview-2-APIs.pptx) API's, what can be done with them and how to use them.
 
 
-## Related GitHub repositories (of mine)
+## Related GitHub repositories (of mine:smile:)
 
 1. A modern data platform: https://github.com/jcordtz/a_data_platform  
 2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script    

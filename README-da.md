@@ -22,25 +22,26 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 >Opdateringer sker I det omfang jeg har tid.  
 >Alle slides er på engelsk.
 
-### Purview-oversigt
+### Purview-oversigt ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. [![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) En masse forskellige ting, dog ikke særlig velorganiseret :smile:
-2. [![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention teknikker for både M365 og Azure - indholdet er klar til brug
-3. [![Purview-Pricing](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-pricing.PPTX) Pris model for Purview Data Governance - indholdet er klar til brug
+1. :green_circle:![Oversigt](Presentations/1-Intro/Purview-overview.PPTX) En masse forskellige ting, dog ikke særlig velorganiseret :smile:
+2. :green_circle:![Retention](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention teknikker for både M365 og Azure.brug
+3. :green_circle:![Prissætning](Presentations/1-Intro/Purview-pricing.PPTX) Pris model for Purview Data Governance.
 
-### Getting started
+### Getting started ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. [![Purview-democase](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case - indholdet er klar til brug
-2. [![Purview-1-setup](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Opsætning - indholdet er klar til brug
-3. [![Purview-2-datamap](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map - indholdet er klar til brug
-4. [![Purview-3-unified-catalog](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog - indholdet er næsten klar til brug
-5. [![Purview-4-data-quality](images/PowerPoint_48x48.jpeg)](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality -indholdet er ikke påbegyndt
+1. :green_circle:![Democase](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case der bruges i de screen shots der i præsentationerne
+2. :green_circle:![Opsætning](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Opsætning af Purview til første gangs brug
+3. :green_circle:![Purview-2-datamap](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map - opsætning af domæner, collections og data assets ved brug af scanning
+4. :yellow_circle:![Purview-3-unified-catalog](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog - etablering af governance domæner, data produkter samt yderligere information
+5. :red_circle:![Purview-4-data-quality](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality - opsætning, håndtering og rapportering
 
-### Advanced
+### Advanced ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. [![Purview-1-advanced](images/PowerPoint_48x48.jpeg)](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanceret - indholdet er påbgyndt
+1. :red_circle:![Advanceret](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanceret indhold
+2. :yellow_circle:[APIs](Presentations/3-Advanced/Purview-2-APIs.pptx) API's, hvad man kan bruge dem til og hvorledes dette gøres
 
-## Andre relaterede GitHub repositories (af mine):
+## Andre relaterede GitHub repositories (mine egne :smile:)
 
 1. En moderne data platform: https://github.com/jcordtz/a_data_platform
 2. Et Purview script setup til at indsætte metadata: https://github.com/jcordtz/load_script
