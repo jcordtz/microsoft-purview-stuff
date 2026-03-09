@@ -26,9 +26,9 @@ Die Farbkennzeichnung ist wie folgt: :green_circle: – Inhalt ist bereit, :yell
 
 ### Purview-übersicht ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. :green_circle:![Ûbersicht](Presentations/1-Intro/Purview-overview.PPTX) Eine Menge verschiedener Dinge - Inhalt ist einsatzbereit, aber nicht besonders gut organisiert. :smile:
-2. :green_circle:![Retention](Presentations/1-Intro/Purview-retention-policies.PPTX) Retentionstechniken für sowohl M365 als auch Azure.
-3. :green_circle:![Preismodell](Presentations/1-Intro/Purview-pricing.PPTX) Preismodell für Purview Data Governance.
+1. :green_circle:[Ûbersicht](Presentations/1-Intro/Purview-overview.PPTX) Eine Menge verschiedener Dinge - Inhalt ist einsatzbereit, aber nicht besonders gut organisiert. :smile:
+2. :green_circle:[Retention](Presentations/1-Intro/Purview-retention-policies.PPTX) Retentionstechniken für sowohl M365 als auch Azure.
+3. :green_circle:[Preismodell](Presentations/1-Intro/Purview-pricing.PPTX) Preismodell für Purview Data Governance.
 
 ### Getting started ![Powerpoint](images/PowerPoint_48x48.jpeg)
 

@@ -30,15 +30,15 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 
 ### Getting started ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. :green_circle:![Democase](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case der bruges i de screen shots der i præsentationerne
-2. :green_circle:![Opsætning](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Opsætning af Purview til første gangs brug
-3. :green_circle:![Purview-2-datamap](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map - opsætning af domæner, collections og data assets ved brug af scanning
-4. :yellow_circle:![Purview-3-unified-catalog](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog - etablering af governance domæner, data produkter samt yderligere information
-5. :red_circle:![Purview-4-data-quality](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality - opsætning, håndtering og rapportering
+1. :green_circle:[Democase](Presentations/2-Getting%20Started/Purview-democase.pptx) Demo case der bruges i de screen shots der i præsentationerne
+2. :green_circle:[Opsætning](Presentations/2-Getting%20Started/Purview-1-setup.pptx) Opsætning af Purview til første gangs brug
+3. :green_circle:[Datamap](Presentations/2-Getting%20Started/Purview-2-datamap.pptx) Data Map - opsætning af domæner, collections og data assets ved brug af scanning
+4. :yellow_circle:[Unified-catalog](Presentations/2-Getting%20Started/Purview-3-unified-catalog.pptx) Unified catalog - etablering af governance domæner, data produkter samt yderligere information
+5. :red_circle:[Data-quality](Presentations/2-Getting%20Started/Purview-4-data-quality.pptx) Data Quality - opsætning, håndtering og rapportering
 
 ### Advanced ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
-1. :red_circle:![Advanceret](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanceret indhold
+1. :red_circle:[Advanceret](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanceret indhold
 2. :yellow_circle:[APIs](Presentations/3-Advanced/Purview-2-APIs.pptx) API's, hvad man kan bruge dem til og hvorledes dette gøres
 
 ## Andre relaterede GitHub repositories (mine egne :smile:)
