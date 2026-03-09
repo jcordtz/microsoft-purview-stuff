@@ -24,7 +24,7 @@ The color code is as follows :green_circle: - content is ready, :yellow_circle: 
 >It is kept up-to-date as I have time to do so.  
 >All slides are in english
 
-### Purview overview !(images/PowerPoint_48x48.jpeg)
+### Purview overview ![(images/PowerPoint_48x48.jpeg)]
 
 1. :green_circle:[![Purview-overview](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-overview.PPTX) A lot of different stuff: Content is ready to use but not that well organized :smile:
 2. :green_circle:[![Purview-Retention](images/PowerPoint_48x48.jpeg)](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention technics for both M365 and Azure
