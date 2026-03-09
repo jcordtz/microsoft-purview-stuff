@@ -19,7 +19,7 @@ In der aktuellen Liste finden Sie die PowerPoints und ihren Status.
 
 Die Farbkennzeichnung ist wie folgt: :green_circle: – Inhalt ist bereit, :yellow_circle: – in Bearbeitung und :red_circle: – noch nicht begonnen.
 
->![Note]
+>[!Note]
 >Diese Informationen ersetzen nicht die offizielle Microsoft Purview Data >Governance‑Dokumentation.
 >Sie werden aktualisiert, sobald ich Zeit dafür habe.
 >Alle Folien sind auf Englisch
