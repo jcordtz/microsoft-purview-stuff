@@ -43,6 +43,13 @@ Die Farbkennzeichnung ist wie folgt: :green_circle: – Inhalt ist bereit, :yell
 1. :red_circle:[Advanced](Presentations/3-Advanced/Purview-1-advanced.pptx) Fortgeschrittene Themen
 2. :yellow_circle:[APIs](Presentations/3-Advanced/Purview-2-APIs.pptx) APIs – was man damit machen kann und wie man sie verwendet.
 
+## Scripts
+
+Some small scripts that can be used for different small handy tasks. Please adjust to your specific needs.
+
+1. Delete assets in a given collection [Delete collection](Scripts/delete_collection.sh)
+2. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  
+
 ## Zugehörige GitHub‑Repositories (meine eigenen:smile:)
 
 1. A modern data platform: https://github.com/jcordtz/a_data_platform  

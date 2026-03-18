@@ -41,10 +41,16 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 1. :red_circle:[Advanceret](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanceret indhold
 2. :yellow_circle:[APIs](Presentations/3-Advanced/Purview-2-APIs.pptx) API's, hvad man kan bruge dem til og hvorledes dette gøres
 
+## Scripts
+
+Some small scripts that can be used for different small handy tasks. Please adjust to your specific needs.
+
+1. Slet assets hørende til en given collection [Delete collection](Scripts/delete_collection.sh)
+2. Et Purview script setup til at indsætte metadata: https://github.com/jcordtz/load_script
+
 ## Andre relaterede GitHub repositories (mine egne :smile:)
 
 1. En moderne data platform: https://github.com/jcordtz/a_data_platform
-2. Et Purview script setup til at indsætte metadata: https://github.com/jcordtz/load_script
 
 ## En liste af Purview links, som kan vise sig brugbare
 

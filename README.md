@@ -43,11 +43,16 @@ The color code is as follows :green_circle: - content is ready, :yellow_circle: 
 1. :red_circle:[Advanced](Presentations/3-Advanced/Purview-1-advanced.pptx) Advanced stuff
 2. :yellow_circle:[APIs](Presentations/3-Advanced/Purview-2-APIs.pptx) API's, what can be done with them and how to use them.
 
+## Scripts
+
+Some small scripts that can be used for different small handy tasks. Please adjust to your specific needs.
+
+1. Delete assets in a given collection [Delete collection](Scripts/delete_collection.sh)
+2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script  
 
 ## Related GitHub repositories (of mine:smile:)
 
 1. A modern data platform: https://github.com/jcordtz/a_data_platform  
-2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script    
 
 ## A list of Purview useful links, that can come in handy
 
