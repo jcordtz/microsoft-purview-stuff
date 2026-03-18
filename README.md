@@ -47,7 +47,9 @@ The color code is as follows :green_circle: - content is ready, :yellow_circle: 
 
 Some small scripts that can be used for different small handy tasks. Please adjust to your specific needs.
 
-1. Delete assets in a given collection [Delete collection](Scripts/delete_collection.sh)
+1. Delete assets in a given collection [Delete collection](Scripts/delete_collection.sh).  
+   **Note** that this script must be modified depending on whether it is used on Linux or macOS.  
+   For example, search for the text ‘MacOS’.
 2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script  
 
 ## Related GitHub repositories (of mine:smile:)

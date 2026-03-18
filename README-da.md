@@ -43,9 +43,10 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 
 ## Scripts
 
-Some small scripts that can be used for different small handy tasks. Please adjust to your specific needs.
+Nogle små scripts til forskellige praktiske opgaver. Tilpas dem efter egne behov.
 
-1. Slet assets hørende til en given collection [Delete collection](Scripts/delete_collection.sh)
+1. Slet assets hørende til en given collection [Delete collection](Scripts/delete_collection.sh).  
+   **Bemærk** at dette script skal ændres om man bruger det på Linux eller MacOS. Søg f.eks. efter teksten "MacOS".
 2. Et Purview script setup til at indsætte metadata: https://github.com/jcordtz/load_script
 
 ## Andre relaterede GitHub repositories (mine egne :smile:)

@@ -45,9 +45,12 @@ Die Farbkennzeichnung ist wie folgt: :green_circle: – Inhalt ist bereit, :yell
 
 ## Scripts
 
-Some small scripts that can be used for different small handy tasks. Please adjust to your specific needs.
+Einige kleine Skripte, die für verschiedene kleine, praktische Aufgaben verwendet werden können.  
+Bitte passen Sie sie an Ihre spezifischen Anforderungen an.  
 
-1. Delete assets in a given collection [Delete collection](Scripts/delete_collection.sh)
+1. Assets in einer angegebenen Collection löschen [Delete collection](Scripts/delete_collection.sh).  
+   Bitte beachten Sie, dass dieses Skript je nach Verwendung unter Linux oder macOS angepasst werden muss.  
+   Suchen Sie beispielsweise nach dem Text ‚MacOS‘
 2. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  
 
 ## Zugehörige GitHub‑Repositories (meine eigenen:smile:)
