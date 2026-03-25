@@ -54,7 +54,7 @@ Bitte passen Sie sie an Ihre spezifischen Anforderungen an.
    Suchen Sie beispielsweise nach dem Text ‚MacOS‘
 2. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  
 
-## Zugehörige GitHub‑Repositories (meine eigenen:smile:)
+## Zugehörige GitHub‑Repositories (meine eigenen :smile:)
 
 1. A modern data platform: https://github.com/jcordtz/a_data_platform  
 2. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  

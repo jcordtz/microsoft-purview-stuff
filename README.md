@@ -53,7 +53,7 @@ Some small scripts that can be used for different small handy tasks. Please adju
    For example, search for the text ‘MacOS’.
 2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script  
 
-## Related GitHub repositories (of mine:smile:)
+## Related GitHub repositories (of mine :smile:)
 
 1. A modern data platform: https://github.com/jcordtz/a_data_platform  
 
