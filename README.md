@@ -29,6 +29,7 @@ The color code is as follows :green_circle: - content is ready, :yellow_circle: 
 1. :green_circle:[Stuff](Presentations/1-Intro/Purview-overview.PPTX) A lot of different stuff: Content is ready to use but not that well organized :smile:
 2. :green_circle:[Retention](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention technics for both M365 and Azure
 3. :green_circle:[Pricing](Presentations/1-Intro/Purview-pricing.PPTX) Pricing model for Purview Data Governance.
+4. :green_circle:[Scanning](Presentations/1-Intro/Purview-scaning.pptx) Scanning – source overview
 
 ### Getting started ![Powerpoint](images/PowerPoint_48x48.jpeg)
 

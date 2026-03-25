@@ -27,6 +27,7 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 1. :green_circle:[Oversigt](Presentations/1-Intro/Purview-overview.PPTX) En masse forskellige ting, dog ikke særlig velorganiseret :smile:
 2. :green_circle:[Retention](Presentations/1-Intro/Purview-retention-policies.PPTX) Retention teknikker for både M365 og Azure.brug
 3. :green_circle:[Prissætning](Presentations/1-Intro/Purview-pricing.PPTX) Pris model for Purview Data Governance.
+4. :green_circle:[Scanning](Presentations/1-Intro/Purview-scaning.pptx) Scanning – kilde oversigt
 
 ### Getting started ![Powerpoint](images/PowerPoint_48x48.jpeg)
 
