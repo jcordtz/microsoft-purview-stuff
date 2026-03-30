@@ -7,8 +7,6 @@
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](README-de.md)
 [![main](https://img.shields.io/badge/main-document-green.svg)](README.md)
 
-
-
 ## Introduction
 
 This repository contains info I have gathered through Purview customer projects over the years.

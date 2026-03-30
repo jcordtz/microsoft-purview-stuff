@@ -7,8 +7,6 @@
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](README-de.md)
 [![main](https://img.shields.io/badge/main-document-green.svg)](README-de.md)
 
-<div style="text-align: center"><img src="images/tiger.jpg" width="400" /></div>
-
 ## Einleitung
 
 Dieses Repository enthält Informationen, die ich im Laufe der Jahre aus Purview‑Kundenprojekten gesammelt habe.
