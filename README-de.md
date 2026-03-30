@@ -1,6 +1,6 @@
-![microsoft](images/microsoft.png)
+<div style="text-align: center"><img src="images/tiger.jpg" width="700" /></div>
 
-# Purview Stuff
+# Purview *Stuff*
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![dk](https://img.shields.io/badge/lang-dk-red.svg)](README-da.md)
