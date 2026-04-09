@@ -61,6 +61,9 @@ Data sources and howto connect: https://learn.microsoft.com/en-us/purview/data-m
 
 Roadmap: https://learn.microsoft.com/en-us/purview/whats-new  
 
+Purview Rest API's: https://learn.microsoft.com/en-us/rest/api/purview/
+Purview Python SDK's: https://azure.github.io/azure-sdk-for-python/purview.html
+Purview and Open Source tools: https://learn.microsoft.com/en-us/purview/legacy/tutorial-azure-purview-tools
 PyApacheAtlas (Python SDK): https://github.com/wjohnson/pyapacheatlas  
 Azure Purview CLI: https://github.com/tayganr/purviewcli  
 

@@ -61,6 +61,9 @@ Roadmap: https://learn.microsoft.com/en-us/purview/whats-new
 PyApacheAtlas (Python SDK): https://github.com/wjohnson/pyapacheatlas  
 Azure Purview CLI: https://github.com/tayganr/purviewcli  
 
+Purview Rest API's: https://learn.microsoft.com/en-us/rest/api/purview/
+Purview Python SDK's: https://azure.github.io/azure-sdk-for-python/purview.html
+Purview og Open Source tools: https://learn.microsoft.com/en-us/purview/legacy/tutorial-azure-purview-tools
 Apache Atlas v2 documentation: https://atlas.apache.org/api/v2/index.html  
 Azure Purview API deep-dive video: https://www.youtube.com/watch?v=4qzjnMf1GN4  
 
