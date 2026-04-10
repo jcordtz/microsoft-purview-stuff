@@ -55,6 +55,11 @@ Some small scripts that can be used for different small handy tasks. Please adju
 
 1. A modern data platform: https://github.com/jcordtz/a_data_platform  
 
+## Handy tools for different tasks
+
+Data masking based on Python: https://microsoft.github.io/presidio/
+
+
 ## A list of Purview useful links, that can come in handy
 
 Data sources and howto connect: https://learn.microsoft.com/en-us/purview/data-map-data-sources  

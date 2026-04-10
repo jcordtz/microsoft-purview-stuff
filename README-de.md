@@ -54,8 +54,11 @@ Bitte passen Sie sie an Ihre spezifischen Anforderungen an.
 
 ## Zugehörige GitHub‑Repositories (meine eigenen :smile:)
 
-1. A modern data platform: https://github.com/jcordtz/a_data_platform  
-2. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  
+A modern data platform: https://github.com/jcordtz/a_data_platform  
+
+## Handsy verkzeuge für verschiedende aufgaben
+
+Data masking basiert auf Python: https://microsoft.github.io/presidio/
 
 # Eine Sammlung nützlicher Purview‑Links, die hilfreich sein können
 

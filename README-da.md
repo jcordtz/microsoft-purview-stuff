@@ -50,7 +50,11 @@ Nogle små scripts til forskellige praktiske opgaver. Tilpas dem efter egne beho
 
 ## Andre relaterede GitHub repositories (mine egne :smile:)
 
-1. En moderne data platform: https://github.com/jcordtz/a_data_platform
+En moderne data platform: https://github.com/jcordtz/a_data_platform
+
+## Smarte værktøjer til forskellige opgaver
+
+Data masking baseret på Python: https://microsoft.github.io/presidio/
 
 ## En liste af Purview links, som kan vise sig brugbare
 
