@@ -49,7 +49,8 @@ Some small scripts that can be used for different small handy tasks. Please adju
 1. Delete assets in a given collection [Delete collection](Scripts/delete_collection.sh).  
    **Note** that this script must be modified depending on whether it is used on Linux or macOS.  
    For example, search for the text ‘MacOS’.
-2. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script  
+2. Python script for update data assets: [Python update](Scripts/update_assets.py)
+3. A Purview script setup for loading metadata: https://github.com/jcordtz/load_script  
 
 ## Related GitHub repositories (of mine :smile:)
 
@@ -59,6 +60,9 @@ Some small scripts that can be used for different small handy tasks. Please adju
 
 Data masking based on Python: https://microsoft.github.io/presidio/
 
+## Purview reporting/analytics
+
+Purview self-serve analytics: https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics
 
 ## A list of Purview useful links, that can come in handy
 

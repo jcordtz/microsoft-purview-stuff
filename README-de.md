@@ -50,7 +50,8 @@ Bitte passen Sie sie an Ihre spezifischen Anforderungen an.
 1. Assets in einer angegebenen Collection löschen [Delete collection](Scripts/delete_collection.sh).  
    Bitte beachten Sie, dass dieses Skript je nach Verwendung unter Linux oder macOS angepasst werden muss.  
    Suchen Sie beispielsweise nach dem Text ‚MacOS‘
-2. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  
+2. Python script for update data assets: [Python update](Scripts/update_assets.py)
+3. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  
 
 ## Zugehörige GitHub‑Repositories (meine eigenen :smile:)
 
@@ -59,6 +60,10 @@ A modern data platform: https://github.com/jcordtz/a_data_platform
 ## Handsy verkzeuge für verschiedende aufgaben
 
 Data masking basiert auf Python: https://microsoft.github.io/presidio/
+
+## Purview reporting/analytics
+
+Purview self-serve analytics: https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics
 
 # Eine Sammlung nützlicher Purview‑Links, die hilfreich sein können
 
