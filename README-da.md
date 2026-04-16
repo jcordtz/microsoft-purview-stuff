@@ -44,6 +44,11 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 
 Nogle små scripts til forskellige praktiske opgaver. Tilpas dem efter egne behov.
 
+>![Note]
+> Disse scripts stilles til rådgihed "as is" uden nogen garanti for at de ville virke i "hvilket som helst" miljø.
+> De skal altså justeres og sikres at de vil virke i jeres eget miljø.
+
+
 1. Slet assets hørende til en given collection [Delete collection](Scripts/delete_collection.sh).  
    **Bemærk** at dette script skal ændres om man bruger det på Linux eller MacOS. Søg f.eks. efter teksten "MacOS".
 2. Python script for update data assets: [Python update](Scripts/update_assets.py)

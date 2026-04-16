@@ -45,7 +45,10 @@ Die Farbkennzeichnung ist wie folgt: :green_circle: – Inhalt ist bereit, :yell
 ## Scripts
 
 Einige kleine Skripte, die für verschiedene kleine, praktische Aufgaben verwendet werden können.  
-Bitte passen Sie sie an Ihre spezifischen Anforderungen an.  
+
+> [!Note]
+> Diese Skripte werden im "as is" bereitgestellt und es wird daher keine Garantie übernommen, dass sie in „jeder“ Umgebung funktionieren.
+> Sie müssen diese daher anpassen und sicherstellen, dass sie in Ihrer Umgebung funktionieren.
 
 1. Assets in einer angegebenen Collection löschen [Delete collection](Scripts/delete_collection.sh).  
    Bitte beachten Sie, dass dieses Skript je nach Verwendung unter Linux oder macOS angepasst werden muss.  
