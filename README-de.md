@@ -63,6 +63,7 @@ A modern data platform: https://github.com/jcordtz/a_data_platform
 ## Handsy verkzeuge für verschiedende aufgaben
 
 Data masking basiert auf Python: https://microsoft.github.io/presidio/
+Synthetic Daten : https://github.com/sdv-dev/SDV/blob/main/README.md (Open Source und licens)
 
 ## Purview reporting/analytics
 
