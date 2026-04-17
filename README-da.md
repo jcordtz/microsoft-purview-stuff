@@ -56,16 +56,16 @@ Nogle små scripts til forskellige praktiske opgaver. Tilpas dem efter egne beho
 
 ## Andre relaterede GitHub repositories (mine egne :smile:)
 
-En moderne data platform: <https://github.com/jcordtz/a_data_platform>
+1. En moderne data platform: <https://github.com/jcordtz/a_data_platform>
 
 ## Smarte værktøjer til forskellige opgaver
 
-Data masking baseret på Python: <https://microsoft.github.io/presidio/>  
-Dannelse af syntetiske data: <https://github.com/sdv-dev/SDV/blob/main/README.md> (både Open Source og licens)  
+1. Data masking baseret på Python: <https://microsoft.github.io/presidio/>  
+2. Dannelse af syntetiske data: <https://github.com/sdv-dev/SDV/blob/main/README.md> (både Open Source og licens)  
 
 ## Purview reporting/analytics
 
-Purview self-serve analytics: <https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics>
+1. Purview self-serve analytics: <https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics>
 
 ## En liste af Purview links, som kan vise sig brugbare
 

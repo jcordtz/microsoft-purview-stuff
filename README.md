@@ -62,12 +62,12 @@ Some small scripts that can be used for different small handy tasks. Please adju
 
 ## Handy tools for different tasks
 
-Data masking based on Python: <https://microsoft.github.io/presidio/>  
-Synthetic Data creation: <https://github.com/sdv-dev/SDV/blob/main/README.md> (both Open Source and licensable)  
+1. Data masking based on Python: <https://microsoft.github.io/presidio/>  
+2. Synthetic Data creation: <https://github.com/sdv-dev/SDV/blob/main/README.md> (both Open Source and licensable)  
 
 ## Purview reporting/analytics
 
-Purview self-serve analytics: <https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics>
+1. Purview self-serve analytics: <https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics>
 
 ## A list of Purview useful links, that can come in handy
 

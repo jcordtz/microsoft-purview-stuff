@@ -58,16 +58,16 @@ Einige kleine Skripte, die für verschiedene kleine, praktische Aufgaben verwend
 
 ## Zugehörige GitHub‑Repositories (meine eigenen :smile:)
 
-A modern data platform: <https://github.com/jcordtz/a_data_platform>  
+1. A modern data platform: <https://github.com/jcordtz/a_data_platform>  
 
 ## Handsy verkzeuge für verschiedende aufgaben
 
-Data masking basiert auf Python: <https://microsoft.github.io/presidio/>  
-Synthetic Daten : <https://github.com/sdv-dev/SDV/blob/main/README.md> (Open Source und licens)  
+1. Data masking basiert auf Python: <https://microsoft.github.io/presidio/>  
+2. Synthetic Daten : <https://github.com/sdv-dev/SDV/blob/main/README.md> (Open Source und licens)  
 
 ## Purview reporting/analytics
 
-Purview self-serve analytics: <https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics>
+1. Purview self-serve analytics: <https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics>
 
 # Eine Sammlung nützlicher Purview‑Links, die hilfreich sein können
 
