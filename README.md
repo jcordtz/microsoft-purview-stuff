@@ -62,8 +62,8 @@ Some small scripts that can be used for different small handy tasks. Please adju
 
 ## Handy tools for different tasks
 
-Data masking based on Python: https://microsoft.github.io/presidio/
-Synthetic Data creation: https://github.com/sdv-dev/SDV/blob/main/README.md (both Open Source and licensable)
+Data masking based on Python: https://microsoft.github.io/presidio/  
+Synthetic Data creation: https://github.com/sdv-dev/SDV/blob/main/README.md (both Open Source and licensable)  
 
 ## Purview reporting/analytics
 
