@@ -54,55 +54,55 @@ Einige kleine Skripte, die für verschiedene kleine, praktische Aufgaben verwend
    Bitte beachten Sie, dass dieses Skript je nach Verwendung unter Linux oder macOS angepasst werden muss.  
    Suchen Sie beispielsweise nach dem Text ‚MacOS‘
 2. Python script for update data assets: [Python update](Scripts/update_assets.py)
-3. Ein Purview-Skript-Setup zum Laden von Metadaten: https://github.com/jcordtz/load_script  
+3. Ein Purview-Skript-Setup zum Laden von Metadaten: <https://github.com/jcordtz/load_script>  
 
 ## Zugehörige GitHub‑Repositories (meine eigenen :smile:)
 
-A modern data platform: https://github.com/jcordtz/a_data_platform  
+A modern data platform: <https://github.com/jcordtz/a_data_platform>  
 
 ## Handsy verkzeuge für verschiedende aufgaben
 
-Data masking basiert auf Python: https://microsoft.github.io/presidio/  
-Synthetic Daten : https://github.com/sdv-dev/SDV/blob/main/README.md (Open Source und licens)  
+Data masking basiert auf Python: <https://microsoft.github.io/presidio/>  
+Synthetic Daten : <https://github.com/sdv-dev/SDV/blob/main/README.md> (Open Source und licens)  
 
 ## Purview reporting/analytics
 
-Purview self-serve analytics: https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics
+Purview self-serve analytics: <https://learn.microsoft.com/en-us/purview/unified-catalog-self-serve-analytics>
 
 # Eine Sammlung nützlicher Purview‑Links, die hilfreich sein können
 
-Datenquellen und wie man sie verbindet: https://learn.microsoft.com/en-us/purview/data-map-data-sources  
+Datenquellen und wie man sie verbindet: <https://learn.microsoft.com/en-us/purview/data-map-data-sources>  
 
-Roadmap: https://learn.microsoft.com/en-us/purview/whats-new  
+Roadmap: <https://learn.microsoft.com/en-us/purview/whats-new>  
 
-Purview Rest API's: https://learn.microsoft.com/en-us/rest/api/purview/
-Purview Python SDK's: https://azure.github.io/azure-sdk-for-python/purview.html
-Purview und Open Source tools: https://learn.microsoft.com/en-us/purview/legacy/tutorial-azure-purview-tools
-PyApacheAtlas (Python SDK): https://github.com/wjohnson/pyapacheatlas  
-Azure Purview CLI: https://github.com/tayganr/purviewcli  
+Purview Rest API's: <https://learn.microsoft.com/en-us/rest/api/purview/>
+Purview Python SDK's: <https://azure.github.io/azure-sdk-for-python/purview.html>
+Purview und Open Source tools: <https://learn.microsoft.com/en-us/purview/legacy/tutorial-azure-purview-tools>
+PyApacheAtlas (Python SDK): <https://github.com/wjohnson/pyapacheatlas>  
+Azure Purview CLI: <https://github.com/tayganr/purviewcli>  
 
-Apache Atlas v2 documentation: https://atlas.apache.org/api/v2/index.html  
+Apache Atlas v2 documentation: <https://atlas.apache.org/api/v2/index.html>  
 Azure Purview API deep-dive video: (ttps://www.youtube.com/watch?v=4qzjnMf1GN4  
 
-Training #1: https://learn.microsoft.com/en-us/purview/  
-Training #2: https://learn.microsoft.com/en-us/training/purview/  
-Training #3: https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/  
-Training #4: https://learn.microsoft.com/en-us/training/modules/describe-purview-data-governance/  
-Training #5: https://github.com/tayganr/purviewlab   
+Training #1: <https://learn.microsoft.com/en-us/purview/>  
+Training #2: <https://learn.microsoft.com/en-us/training/purview/>  
+Training #3: <https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/>  
+Training #4: <https://learn.microsoft.com/en-us/training/modules/describe-purview-data-governance/>  
+Training #5: <https://github.com/tayganr/purviewlab>   
 
-Purview StarterKit: https://techcommunity.microsoft.com/t5/azure-purview/getting-started-with-azure-purview-using-purview-starter-kit-cli/m-p/2645574  
-Anleitung zur Erstellung benutzerdefinierter Lineage: https://piethein.medium.com/use-azure-purviews-rest-apis-for-creating-custom-lineage-ad8efacc6230  
-Anleitung zur scanning Delta Lake: https://www.youtube.com/watch?v=pk0Gx_HHY4A  
-Community: https://techcommunity.microsoft.com/category/microsoft-purview  
+Purview StarterKit: <https://techcommunity.microsoft.com/t5/azure-purview/getting-started-with-azure-purview-using-purview-starter-kit-cli/m-p/2645574>  
+Anleitung zur Erstellung benutzerdefinierter Lineage: <https://piethein.medium.com/use-azure-purviews-rest-apis-for-creating-custom-lineage-ad8efacc6230>  
+Anleitung zur scanning Delta Lake: <https://www.youtube.com/watch?v=pk0Gx_HHY4A>  
+Community: <https://techcommunity.microsoft.com/category/microsoft-purview>  
 
 ### In Purview integrierte 3rd Party tools
 
-MDM - Cluedin : https://www.cluedin.com/product/microsoft-purview-mdm-integration  
-MDM - Profisee: https://profisee.com/solutions/microsoft-enterprise/  
-MDM - Reltio: https://learn.reltio.com/reltio-integration-for-microsoft-purview  
-MDM - Semarchy: https://www.semarchy.com/doc/semarchy-xdm/xdm/latest/Install/azure/purview/integrate-xdm-with-purview.html  
+MDM - Cluedin : <https://www.cluedin.com/product/microsoft-purview-mdm-integration>  
+MDM - Profisee: <https://profisee.com/solutions/microsoft-enterprise/>  
+MDM - Reltio: <https://learn.reltio.com/reltio-integration-for-microsoft-purview>  
+MDM - Semarchy: <https://www.semarchy.com/doc/semarchy-xdm/xdm/latest/Install/azure/purview/integrate-xdm-with-purview.html>  
 
-Lineage – Solidatus: https://www.solidatus.com/partners/microsoft-purview-partnership/  
+Lineage – Solidatus: <https://www.solidatus.com/partners/microsoft-purview-partnership/>  
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![dk](https://img.shields.io/badge/lang-da-red.svg)](README-da.md)
