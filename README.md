@@ -47,7 +47,7 @@ The color code is as follows :green_circle: - content is ready, :yellow_circle: 
 Some small scripts that can be used for different small handy tasks. Please adjust to your specific needs.
 
 >![Note]
-> **These scripts are provided as is and hence with no guarentee they will work in "any" environment.**
+> **These scripts are provided as is and hence with no guarentee they will work in "any" environment**.  
 > **So, you *must* adjust and ensure they will work in your environment.**
 
 1. Delete assets in a given collection [Delete collection](Scripts/delete_collection.sh).  

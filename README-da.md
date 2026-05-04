@@ -45,7 +45,7 @@ Følgende liste viser de tilgængelige Powerpoint samt deres status.
 Nogle små scripts til forskellige praktiske opgaver. Tilpas dem efter egne behov.
 
 >![Note]
-> **Disse scripts stilles til rådgihed "as is" uden nogen garanti for at de ville virke i "hvilket som helst" miljø.**
+> **Disse scripts stilles til rådighed "as is" uden nogen garanti for at de ville virke i "hvilket som helst" miljø.**.  
 > **De *skal* altså justeres og sikres at de vil virke i jeres eget miljø.**
 
 
