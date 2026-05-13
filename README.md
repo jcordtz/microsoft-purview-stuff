@@ -55,7 +55,7 @@ Some small scripts that can be used for different small handy tasks. Please adju
    For example, search for the text ‘MacOS’.
 2. Python script for update data assets: [Python update](Scripts/update_assets.py)
 3. Python script to test the connection to Purview: [Connection](Scripts/purview_connect.py)
-4. A Purview linux script setup for loading metadata: <https://github.com/jcordtz/load_script>  
+4. A Purview linux script setup for loading metadata: [Load_script](<https://github.com/jcordtz/load_script>)
 
 ## Related GitHub repositories (of mine :smile:)
 

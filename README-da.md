@@ -53,7 +53,7 @@ Nogle små scripts til forskellige praktiske opgaver. Tilpas dem efter egne beho
    **Bemærk** at dette script skal ændres om man bruger det på Linux eller MacOS. Søg f.eks. efter teksten "MacOS".
 2. Python script for update data assets: [Python update](Scripts/update_assets.py)
 4. Python script to test the connection to Purview: [Connection](Scripts/purview_connect.py)
-3. Et Purview script setup til at indsætte metadata: <https://github.com/jcordtz/load_script>
+3. Et Purview script setup til at indsætte metadata:[Load script](<https://github.com/jcordtz/load_script>)
 
 ## Andre relaterede GitHub repositories (mine egne :smile:)
 
