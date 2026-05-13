@@ -1,150 +1,3 @@
-"""
-################################################################################
-#                              ⚠️  DISCLAIMER  ⚠️                               #
-################################################################################
-#                                                                              #
-#  THIS SCRIPT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR   #
-#  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,   #
-#  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.                       #
-#                                                                              #
-#  This script is intended FOR INSPIRATION AND EDUCATIONAL PURPOSES ONLY.     #
-#  Use at your own risk. The author(s) shall not be held liable for any       #
-#  damages, data loss, or other issues arising from the use of this script.   #
-#                                                                              #
-#  Before using in a production environment:                                   #
-#  - Thoroughly test in a non-production environment                          #
-#  - Review and adapt the code to your specific requirements                  #
-#  - Ensure proper error handling for your use case                           #
-#  - Validate all API calls and permissions                                   #
-#                                                                              #
-#  NO GUARANTEE IS PROVIDED THAT THIS SCRIPT WILL WORK AS EXPECTED OR THAT    #
-#  IT WILL BE MAINTAINED OR UPDATED.                                          #
-#                                                                              #
-################################################################################
-
-Azure Purview Data Governance - Asset Glossary Term Assignment Tool
-===================================================================
-
-This script provides functionality to bulk-assign glossary terms to data assets
-in Microsoft Purview Data Governance using a CSV mapping file.
-
-Overview
---------
-The script enables automated assignment of glossary terms to column-level assets
-in Purview by:
-1. Authenticating to Azure Purview using service principal credentials
-2. Reading a CSV file containing table/column to glossary term mappings
-3. Searching Purview to find matching data assets
-4. Assigning the specified glossary terms to found assets
-
-Prerequisites
--------------
-- Python 3.8+
-- Required packages: requests, pandas
-- Azure service principal with appropriate Purview permissions:
-  - Data Curator role (for assigning glossary terms)
-  - Data Reader role (for searching assets)
-
-Authentication
---------------
-The script uses OAuth2 client credentials flow with the following parameters:
-- client_id: Azure AD application (client) ID
-- client_secret: Client secret for the application
-- tenant_id: Azure AD tenant ID
-- purview_name: Name of the Purview account
-
-CSV File Format
----------------
-The input CSV file must have a header row with the following columns:
-- table_name: The name of the table containing the column
-- column_name: The name of the column to tag
-- glossary_term: The glossary term name to assign
-
-Example CSV:
-    table_name,column_name,glossary_term
-    customers,email,Email Address
-    orders,customer_id,Customer Identifier
-    products,price,Product Price
-
-Main Components
----------------
-Classes:
-    PurviewClient
-        Handles authentication and API interactions with Purview.
-        Methods:
-        - login(): Authenticate using client credentials
-        - search_assets(): Search for assets by keyword
-        - find_column_asset(): Find a specific column by table and column name
-        - get_asset_by_guid(): Retrieve asset details by GUID
-        - assign_glossary_term_to_asset(): Assign a glossary term to an asset
-
-    SearchResults (dataclass)
-        Container for search results with separate DataFrames:
-        - all_results: All processed rows
-        - found_assets: Only assets found in Purview
-        - not_found_assets: Assets not found in Purview
-
-Functions:
-    login_to_purview()
-        Convenience function to create and authenticate a PurviewClient.
-
-    load_csv_file()
-        Load and validate the CSV mapping file.
-
-    process_asset_mappings()
-        Search Purview for all assets in the CSV file.
-
-    search_and_store_assets()
-        Search for assets and return organized SearchResults.
-
-    update_glossary_terms_for_assets()
-        Loop through found assets and assign glossary terms.
-
-Usage Example
--------------
-    from update_assets import (
-        login_to_purview,
-        load_csv_file,
-        search_and_store_assets,
-        update_glossary_terms_for_assets
-    )
-
-    # Authenticate
-    client = login_to_purview(
-        client_id="your-client-id",
-        client_secret="your-client-secret",
-        tenant_id="your-tenant-id",
-        purview_name="your-purview-account"
-    )
-
-    # Load CSV mapping file
-    df = load_csv_file("asset_mappings.csv")
-
-    # Search for assets in Purview
-    results = search_and_store_assets(client, df)
-
-    # Review found assets
-    print(results.found_assets)
-
-    # Update glossary terms (change condition in function to enable)
-    update_df = update_glossary_terms_for_assets(
-        client=client,
-        found_assets_df=results.found_assets,
-        execute_update=True
-    )
-
-Environment Variables
----------------------
-The script supports the following environment variables:
-- AZURE_CLIENT_ID: Azure AD application client ID
-- AZURE_CLIENT_SECRET: Client secret
-- AZURE_TENANT_ID: Azure AD tenant ID
-- PURVIEW_NAME: Purview account name
-
-Author: Generated for Microsoft Purview Data Governance
-Version: 1.0.0
-"""
-
 import requests
 import pandas as pd
 from typing import Optional, List, Dict, Any
@@ -751,7 +604,7 @@ if __name__ == "__main__":
     CLIENT_SECRET = os.environ.get("AZURE_CLIENT_SECRET", "your-client-secret")
     TENANT_ID = os.environ.get("AZURE_TENANT_ID", "your-tenant-id")
     PURVIEW_NAME = os.environ.get("PURVIEW_NAME", "your-purview-account-name")
-    
+
     # Login to Purview
     client = login_to_purview(
         client_id=CLIENT_ID,
@@ -762,6 +615,12 @@ if __name__ == "__main__":
     
     if client:
         print("Ready to interact with Purview APIs")
+        print("")
+        print("Client_id =", CLIENT_ID)
+        print("Client_Secret =",CLIENT_SECRET)
+        print("Tenant_id =", TENANT_ID)
+        print("Purview_name= ", PURVIEW_NAME)
+
         # Use client.get_headers() for subsequent API calls
     else:
         print("Failed to authenticate")

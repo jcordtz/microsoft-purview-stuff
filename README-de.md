@@ -54,7 +54,8 @@ Einige kleine Skripte, die für verschiedene kleine, praktische Aufgaben verwend
    Bitte beachten Sie, dass dieses Skript je nach Verwendung unter Linux oder macOS angepasst werden muss.  
    Suchen Sie beispielsweise nach dem Text ‚MacOS‘
 2. Python script for update data assets: [Python update](Scripts/update_assets.py)
-3. Ein Purview-Skript-Setup zum Laden von Metadaten: <https://github.com/jcordtz/load_script>  
+3. Python script to test the connection to Purview: [Connection](Scripts/purview_connect.py)
+4. Ein Purview-Skript-Setup zum Laden von Metadaten: <https://github.com/jcordtz/load_script>  
 
 ## Zugehörige GitHub‑Repositories (meine eigenen :smile:)
 
