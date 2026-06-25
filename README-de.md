@@ -53,9 +53,10 @@ Einige kleine Skripte, die für verschiedene kleine, praktische Aufgaben verwend
 1. Assets in einer angegebenen Collection löschen [Delete collection](Scripts/delete_collection.sh).  
    Bitte beachten Sie, dass dieses Skript je nach Verwendung unter Linux oder macOS angepasst werden muss.  
    Suchen Sie beispielsweise nach dem Text ‚MacOS‘
-2. Python script for update data assets: [Python update](Scripts/update_assets.py)
-3. Python script to test the connection to Purview: [Connection](Scripts/purview_connect.py)
-4. Ein Purview-Skript-Setup zum Laden von Metadaten: [Load Script](<https://github.com/jcordtz/load_script>)
+2. Python-Skript zum Aktualisieren eines Data Assets:: [Python update](Scripts/update_assets.py)
+3. ython-Skript zum Testen der Verbindung zu Purview: [Connection](Scripts/purview_connect.py)
+4. Python-Skript, das zeigt, wie man Custom Attributes verwenden kann: [Customer attributes](<https://github.com/jcordtz/custom-attributes>)
+5. Ein Purview-Skript-Setup zum Laden von Metadaten: [Load Script](<https://github.com/jcordtz/load_script>)
 
 ## Zugehörige GitHub‑Repositories (meine eigenen :smile:)
 
